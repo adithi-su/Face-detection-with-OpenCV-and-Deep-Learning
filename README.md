@@ -6,8 +6,7 @@
    (preferably use virtualenv)
    virtualenv cv
    source cv/bin/activate
-   pip install opencv-contrib-python
-   
+   pip install opencv-contrib-python   
 2. pip install imutils
 
 <h4>Contents:</h4>
