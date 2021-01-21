@@ -1,13 +1,14 @@
 # Face-detection-with-OpenCV-and-Deep-Learning
 
 <h4>Install necessary packages:</h4>
-1. sudo pip install opencv-contrib-python
-   OR
-   (preferably use virtualenv)
+ <ol>
+   <li> sudo pip install opencv-contrib-python </li>
+   <li>(preferably use virtualenv)
    virtualenv cv
    source cv/bin/activate
-   pip install opencv-contrib-python   
-2. pip install imutils
+      pip install opencv-contrib-python   </li>
+   <li> pip install imutils </li>
+ </ol>
 
 <h4>Contents:</h4>
 1. Apply face detection with OpenCV to single images (detect_faces.py)
